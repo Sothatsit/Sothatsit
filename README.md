@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there, I'm Sothatsit A.K.A. Paddy Lamont 🤠
 
-<!--
-**Sothatsit/Sothatsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've always enjoyed programming things, and so this is where I dump some of my more complete projects.
 
-Here are some ideas to get you started:
+### A sample of the projects I have on here are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎲 The Royal Game of Ur, [Client](https://github.com/Sothatsit/RoyalUrClient "Royal Ur Client") and [Server](https://github.com/Sothatsit/RoyalUrServer "Royal Ur Server") -
+An ancient board game implemented for the web, play at http://royalur.net/.
+
+- 🔊 [AudioStream](https://github.com/Sothatsit/AudioStream) - Allows streaming of audio between computers, or to multiple outputs (play to many bluetooth headphones!).
+
+- 📏 [Evaluate](https://github.com/Sothatsit/Evaluate "Evaluate") - Parse, optimise, compile and evaluate arbitrary mathematical expressions in Java, all at runtime.
+
+- 📋 [Bake](https://github.com/Sothatsit/Bake) - Implements a subset of the features of [make](https://man7.org/linux/man-pages/man1/make.1.html), written in C.
+
+#### I'm currently also working on Hermes, a project to make IoT devices securely accessible over the internet.
