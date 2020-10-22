@@ -1,4 +1,4 @@
-### Hey there, I'm Sothatsit A.K.A. Paddy Lamont 🤠
+### Hey! I'm Sothatsit, A.K.A. Paddy Lamont
 
 I've always enjoyed programming things, and so this is where I dump some of my more complete projects.
 
