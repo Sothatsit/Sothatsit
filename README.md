@@ -1,4 +1,4 @@
-### Hey! I'm Sothatsit, A.K.A. Paddy Lamont
+### Hey, I'm Sothatsit, A.K.A. Paddy Lamont
 
 I've always enjoyed programming things, and so this is where I dump some of my more complete projects.
 
@@ -14,5 +14,3 @@ An ancient board game implemented for the web, play at http://royalur.net/.
 - 📋 [Bake](https://github.com/Sothatsit/Bake) - Implements a subset of the features of [make](https://man7.org/linux/man-pages/man1/make.1.html), written in C.
 
 - ♞ [ThreePlayerChess](https://github.com/Sothatsit/ThreePlayerChess) - Implements an AI agent to play the game of three-player chess.
-
-#### I'm currently also working on Hermes, a project to make IoT devices securely accessible over the internet.
