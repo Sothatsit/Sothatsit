@@ -9,6 +9,8 @@ An ancient board game implemented for the web, play at https://royalur.net/.
 
 - 📱 [The Misinformation Game](https://themisinformationgame.github.io/) - A simulator used to research people's processing of misinformation on social media.
 
+- 📝 [PubMed Connections](https://github.com/PubMedConnections/PubMedConnections) - A tool for exploring the relationships between authors in the PubMed database.
+
 - 🐛 [CamoWorms](https://github.com/Sothatsit/CamoWorms) - A project to evolve a clew of camouflage worms (quadratic Bezier curves) to replicate images.
 
 - 🔊 [AudioStream](https://github.com/Sothatsit/AudioStream) - Allows streaming of audio between computers, or to multiple outputs (play to many bluetooth headphones!).
