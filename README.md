@@ -2,15 +2,6 @@
 
 I've always enjoyed programming things, and so this is where I store some of my more complete projects.
 
-<a rel="me" href="https://sigmoid.social/@paddy" style="text-decoration: none">
-    <img src="assets/mastodon.svg" alt="Mastodon Icon" style="width: 2.4em; height: 2.4em; margin-right: 0.4em;"/>
-</a>
-<a rel="me" href="https://twitter.com/paddy_lamont" style="text-decoration: none">
-    <img src="assets/twitter.svg" alt="Twitter Icon" style="width: 2.4em; height: 2.4em; margin-right: 0.4em;" />
-</a>
-<a rel="me" href="mailto:padraiglamont@gmail.com" style="text-decoration: none">
-    <img src="assets/email.svg" alt="Email Icon" style="width: 2.4em; height: 2.4em; margin-right: 0.4em;" />
-</a>
 
 ### Some of my Projects:
 
@@ -30,3 +21,10 @@ An ancient board game implemented for the web, play at https://royalur.net/.
 - 📋 [Bake](https://github.com/Sothatsit/Bake) - Implements a subset of the features of [make](https://man7.org/linux/man-pages/man1/make.1.html), written in C.
 
 - ♞ [ThreePlayerChess](https://github.com/Sothatsit/ThreePlayerChess) - Implements an AI agent to play the game of three-player chess.
+
+
+### Social Links
+
+<a rel="me" href="https://sigmoid.social/@paddy"><img src="assets/mastodon.svg" alt="Mastodon Icon" width="50" height="50" /></a>
+<a rel="me" href="https://twitter.com/paddy_lamont"><img src="assets/twitter.svg" alt="Twitter Icon" width="50" height="50" /></a>
+<a rel="me" href="mailto:padraiglamont@gmail.com"><img src="assets/email.svg" alt="Email Icon" width="50" height="50" /></a>
