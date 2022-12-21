@@ -2,6 +2,16 @@
 
 I've always enjoyed programming things, and so this is where I store some of my more complete projects.
 
+<a rel="me" href="https://sigmoid.social/@paddy" style="text-decoration: none">
+    <img src="assets/mastodon.svg" alt="Mastodon Icon" style="width: 2.4em; height: 2.4em; margin-right: 0.4em;"/>
+</a>
+<a rel="me" href="https://twitter.com/paddy_lamont" style="text-decoration: none">
+    <img src="assets/twitter.svg" alt="Twitter Icon" style="width: 2.4em; height: 2.4em; margin-right: 0.4em;" />
+</a>
+<a rel="me" href="mailto:padraiglamont@gmail.com" style="text-decoration: none">
+    <img src="assets/email.svg" alt="Email Icon" style="width: 2.4em; height: 2.4em; margin-right: 0.4em;" />
+</a>
+
 ### Some of my Projects:
 
 - 🎲 The Royal Game of Ur, [Client](https://github.com/Sothatsit/RoyalUrClient "Royal Ur Client") and [Server](https://github.com/Sothatsit/RoyalUrServer "Royal Ur Server") -
